@@ -1,0 +1,1 @@
+<p>The repository event-landing-page is practice regarding the construction of a mobile friendly website. The idea is that the user, Franklin T. Oliveira, as part of a collaborative project, can follow the instructions of the class to go through the motions of building a landing page for an event.</p>
