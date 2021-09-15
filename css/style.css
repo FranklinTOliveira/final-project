@@ -1,3 +1,11 @@
+.announcement{
+    font-family: 'Kaisei Tokumin';
+}
+
 .card{
     border: none;
+}
+
+.profiles{
+    font-family: 'Urbanist';
 }
